@@ -17,11 +17,11 @@ Steps to run -
 
 1) Double click on the exe to run the AI voice assistance (In case not working then run this exe as administrator)
 2) Speak any of below options when you see listen on cmd
-> I want to know weather conditions.
-> change voice > Female
-> open my document 
-> search on google > python
-> play on youtube > python
-> tell me today's date 
-> tell me current time 
-> you can go offline
+A) I want to know weather conditions.
+B) change voice > Female
+C) open my document 
+D) search on google > python
+E) play on youtube > python
+F) tell me today's date 
+G) tell me current time 
+H) you can go offline
